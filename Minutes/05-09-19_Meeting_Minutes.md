@@ -1,6 +1,6 @@
-Minutes for the Bi-Weekly Meeting Held on 5th September 2019
-- We will be using a shared Google Doc to take the minutes but they have to be moved here for longevity and easy access. 
+# Minutes for the Bi-Weekly Meeting Held on 5th September 2019
 
+## Present
 
 ## Agenda Items
 1. Introduce Bioinformatics Onboarding documents, code of conduct
@@ -17,5 +17,3 @@ Minutes for the Bi-Weekly Meeting Held on 5th September 2019
 - Careen, Gilbert, Kennedy
 - Festus, Brian, Pauline
 - Andrew, Cynthia
-
-
