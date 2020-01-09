@@ -47,21 +47,21 @@
 
 ## Agenda 2: Presentation and Demo on Data Management Platform (Geoffrey and Cynthia)
 
-## System architeture (Geoffrey)
+### System architeture (Geoffrey)
 
 * Introduction to RedCap
 * Storage of data in icipe repository
 * Working API
 * Data importation from REDCAP
 
-## Design Principles
+### Design Principles
  
 * SOLID PRINCIPLES such as Modularity of system, singleness of responsibility, opennes and closedness of the system
 * Security of data stored on the system with regards to data encryption
 * Hosting of data to a cloud service MS Azure
 
 
-## DEMO OF THE PROTOTYPE (Cynthia)
+### DEMO OF THE PROTOTYPE (Cynthia)
 
 Demonstration on:
 i. how to fill in the REDCAP form for sample request
@@ -118,10 +118,10 @@ iv. Approval of sample requests by System admin
 
 * 4 trainings were conducted at *icipe* as follows:
 
-#### i. July - Introduction to Data Management
-#### ii. July - EANBiT Residential training
-#### iii. August - H3ABionet 16SrRNA Intermediate Bioinfromatics Training
-#### iv. December - Data Carpentries Workshop
+ #### i. July - Introduction to Data Management
+ #### ii. July - EANBiT Residential training
+ #### iii. August - H3ABionet 16SrRNA Intermediate Bioinfromatics Training
+ #### iv. December - Data Carpentries Workshop
 
 * He then talked about the trainings scheduled for 2020 as follows:
 
@@ -234,7 +234,7 @@ iv. Approval of sample requests by System admin
 
 ### Suggestion from Dr. Henri Tonnang
 
-* Having one wing of R&D for Data Modelling and Geoinformation unit
+* Having one wing of R&D building for Data Modelling and Geoinformation unit
 
 ## The meeting ended at 1125hrs
 
