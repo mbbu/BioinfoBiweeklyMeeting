@@ -115,12 +115,12 @@ iv. Approval of sample requests by System admin
 
 * Ouso started with a recap of training activities in the year 2019
 
-###### * 4 trainings were conducted at *icipe* as follows:
+* 4 trainings were conducted at *icipe* as follows:
 
-i. July - Introduction to Data Management
-ii. July - EANBiT Residential training
-iii. August - H3ABionet 16SrRNA Intermediate Bioinfromatics Training
-iv. December - Data Carpentries Workshop
+#### i. July - Introduction to Data Management
+#### ii. July - EANBiT Residential training
+#### iii. August - H3ABionet 16SrRNA Intermediate Bioinfromatics Training
+#### iv. December - Data Carpentries Workshop
 
 * He then talked about the trainings scheduled for 2020 as follows:
 
