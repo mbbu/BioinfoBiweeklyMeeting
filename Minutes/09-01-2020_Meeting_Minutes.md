@@ -69,16 +69,21 @@ iii.Managing different data such as genomic data, GEIS data
 iv. Approval of sample requests by System admin
 
 ### Suggestions from Dr. Villinger
+
 Instead of the Dashboard having specific studies, it should be grouped in terms of project in which samples were collected
-## Suggestion from Festus
+
+### Suggestion from Festus
+
 Metadata should indicate samples remaining after use 
-## Follow-up from Ouso & Villinger
+
+### Follow-up from Ouso & Villinger
+
 Amount of sample remaining should also include the date e.g.  available sample amount as of 9/1/2020 is 10ml
 System users should be able to know if requested sample is available or not and the next steps
 
-## Suggestions from Dr. Henri Tonnang
+### Suggestions from Dr. Henri Tonnang
 
-Rethinking of the whole system concept all the way from a data warehouse
+* Rethinking of the whole system concept all the way from a data warehouse
 A nested loop for the sample management dashboard - a hierarchical approach
 Dynamism in the system. He talked about reconfiguration of the whole system to include icipe research activities
 He also suggested a technical meeting to discuss redesign of the Data management system
