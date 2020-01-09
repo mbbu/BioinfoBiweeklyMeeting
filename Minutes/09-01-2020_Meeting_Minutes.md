@@ -76,7 +76,7 @@ iv. Approval of sample requests by System admin
 
 * Metadata should indicate samples remaining after use 
 
-### Follow-up from Ouso & Villinger
+### Follow-up from Ouso & Dr. Villinger
 
 * Amount of sample remaining should also include the date e.g.  available sample amount as of 9/1/2020 is 10ml
 * System users should be able to know if requested sample is available or not and the next steps
@@ -130,10 +130,10 @@ iv. December - Data Carpentries Workshop
 
 ##### Modules to be covered:
 
-• Introduction to bioinformatics
-• Organizing a genomic project workspace (Data Management Plan)
-• Open and reproducible Bioinformatics research (Data tidiness, Frictionless Data tools)
-• Introduction to data backup and version control (Git and GitHub, Pipeline tools)
+* Introduction to bioinformatics
+* Organizing a genomic project workspace (Data Management Plan)
+* Open and reproducible Bioinformatics research (Data tidiness, Frictionless Data tools)
+* Introduction to data backup and version control (Git and GitHub, Pipeline tools)
 
 ## 2. JULY - AUGUST EANBiT Residential Training Course (6 weeks)
 
@@ -141,14 +141,14 @@ iv. December - Data Carpentries Workshop
 
 ##### Modules to be covered 
 
-• Version control and collaborative development (Git & Github)
-• Advanced Scripting
-• Biological databases and API
-• Gene models and annotation
-• Reproducibility and package management: workflow languages (CWL &  Snakemake)
-• Phylogenomics (Visualization and Annotation)
-• Metagenomics (16S and Whole genome shotgun sequencing) 
-• Machine Learning and modeling for big data (HMM)
+* Version control and collaborative development (Git & Github)
+* Advanced Scripting
+* Biological databases and API
+* Gene models and annotation
+* Reproducibility and package management: workflow languages (CWL &  Snakemake)
+* Phylogenomics (Visualization and Annotation)
+* Metagenomics (16S and Whole genome shotgun sequencing) 
+* Machine Learning and modeling for big data (HMM)
 
 #### 3. AUGUST - OCTOBER: H3ABioNet: Intermediate 16S rRNA Microbiome Training Course
 
@@ -157,11 +157,11 @@ iv. December - Data Carpentries Workshop
 #### Modules to be covered 
 
 * Introduction to the Linux command line / intro to R
-• Introduction to the microbiome and study design – why 16S?
-• Sample collection, extraction and library prep for 16S NGS analyses
-• 16S rRNA gene amplicon sequencing bioinformatics pipeline: the theory
-• 16S analysis pipeline - QC, ASV picking, taxonomic classification and alignment metagenomeSeq (among others)
-• Downstream analysis in R - using the packages phyloseq, NMF, vegan
+* Introduction to the microbiome and study design – why 16S?
+* Sample collection, extraction and library prep for 16S NGS analyses
+* 16S rRNA gene amplicon sequencing bioinformatics pipeline: the theory
+* 16S analysis pipeline - QC, ASV picking, taxonomic classification and alignment metagenomeSeq (among others)
+* Downstream analysis in R - using the packages phyloseq, NMF, vegan
 
 ## 4. DECEMBER Data Carpentry Genomics Workshop (4 days)
 
@@ -169,11 +169,11 @@ iv. December - Data Carpentries Workshop
 
 #### Modules to be covered
 
-• Project organisation and management
-• Introduction to command line interface
-• Data wrangling and processing
-• Introduction to cloud computing
-• Introduction to R and RStudio for genomics
+* Project organisation and management
+* Introduction to command line interface
+* Data wrangling and processing
+* Introduction to cloud computing
+* Introduction to R and RStudio for genomics
 
 ### Comments from Dr. Caleb 
 
