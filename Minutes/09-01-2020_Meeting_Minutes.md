@@ -37,7 +37,7 @@
 2. Dr. Daniel Masiga
 3. Christian Mumo
 
-## Agenda 1: Introductions and Welcome.
+## Agenda 1: Introductions and Welcome
 
 * Dr. Caleb Kibet started the meeting at 1005hrs with a welcome message and introductions from everyone present
 * He talked about full implementation of the MBBU strategy by end of the year 2020
