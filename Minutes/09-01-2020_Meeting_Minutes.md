@@ -68,7 +68,7 @@ ii.The Sample management dashboard with various tabs
 iii.Managing different data such as genomic data, GEIS data
 iv. Approval of sample requests by System admin
 
-## Suggestions from Dr. Villinger
+### Suggestions from Dr. Villinger
 Instead of the Dashboard having specific studies, it should be grouped in terms of project in which samples were collected
 ## Suggestion from Festus
 Metadata should indicate samples remaining after use 
