@@ -46,21 +46,21 @@ Everyone present introduced themselves, talked about what they are currently wor
 
 ## Agenda 2: Presentation and Demo on Data Management Platform (Geoffrey and Cynthia)
 
-# System architeture (Geoffrey)
+## System architeture (Geoffrey)
 
 Introduction to RedCap
 Storage of data in icipe repository
 Working API
 Data importation from REDCAP
 
-# Design Principles
+## Design Principles
  
 SOLID PRINCIPLES such as Modularity of system, singleness of responsibility, opennes and closedness of the system
 Security of data stored on the system with regards to data encryption
 Hosting of data to a cloud service MS Azure
 
 
-# DEMO OF THE PROTOTYPE (Cynthia)
+## DEMO OF THE PROTOTYPE (Cynthia)
 
 Demonstration on:
 i. how to fill in the REDCAP form for sample request
@@ -69,20 +69,20 @@ iii.Managing different data such as genomic data, GEIS data
 iv. Approval of sample requests by System admin
 
 ## Suggestions from Dr. Villinger - Instead of the Dashboard having specific studies, it should be grouped in terms of project in which samples were collected
-# Suggestion from Festus - Metadata should indicate samples remaining after use 
-# Follow-up from Ouso & Villinger - Amount of sample remaing should also include the date e.g.  available sample amount as of 9/1/2020 is 10ml
-# System users should be able to know if requested sample is available or not and the next steps
+## Suggestion from Festus - Metadata should indicate samples remaining after use 
+## Follow-up from Ouso & Villinger - Amount of sample remaing should also include the date e.g.  available sample amount as of 9/1/2020 is 10ml
+## System users should be able to know if requested sample is available or not and the next steps
 
 ## Suggestions from Dr. Henri Tonnang
 
-# Rethinking of the whole system concept all the way from a data warehouse
-# A nested loop for the sample management dashboard - a hierarchical approach
-# Dynamism in the system. He talked about reconfiguration of the whole system to include icipe research activities
-# He also suggested a technical meeting to discuss redesign of the Data management system
-# Consolidation of the data management into a centralized database
-# How icipe project collaborators and partners will access the system
-# Finding publicly available data from a search engine such as google 
-# He recommended the Geonode repository   
+## Rethinking of the whole system concept all the way from a data warehouse
+## A nested loop for the sample management dashboard - a hierarchical approach
+## Dynamism in the system. He talked about reconfiguration of the whole system to include icipe research activities
+## He also suggested a technical meeting to discuss redesign of the Data management system
+## Consolidation of the data management into a centralized database
+## How icipe project collaborators and partners will access the system
+## Finding publicly available data from a search engine such as google 
+## He recommended the Geonode repository   
 
 ## Suggestion from Glen: The API should allow querying of the system and access on the centrewide icipe  website
 
