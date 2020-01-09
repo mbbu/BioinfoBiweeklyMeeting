@@ -56,7 +56,7 @@ Data importation from REDCAP
 # Design Principles
  
 SOLID PRINCIPLES such as Modularity of system, singleness of responsibility, opennes and closedness of the system
-Securityof data stored on the system with regards to data encryption
+Security of data stored on the system with regards to data encryption
 Hosting of data to a cloud service MS Azure
 
 
@@ -68,7 +68,7 @@ ii.The Sample management dashboard with various tabs
 iii.Managing different data such as genomic data, GEIS data
 iv. Approval of sample requests by System admin
 
-# Suggestions from Dr. Villinger - Instead of the Dashboard having specific studies, it should be grouped in terms of project in which samples were collected
+## Suggestions from Dr. Villinger - Instead of the Dashboard having specific studies, it should be grouped in terms of project in which samples were collected
 # Suggestion from Festus - Metadata should indicate samples remaining after use 
 # Follow-up from Ouso & Villinger - Amount of sample remaing should also include the date e.g.  available sample amount as of 9/1/2020 is 10ml
 # System users should be able to know if requested sample is available or not and the next steps
