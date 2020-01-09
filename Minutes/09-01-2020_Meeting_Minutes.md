@@ -1,4 +1,4 @@
-# Minutes for the first MBBU meeting of the year 2020
+# Minutes of the first MBBU meeting of the year 2020
 
 ## Date: Thursday 9, January 2020
  
@@ -33,6 +33,7 @@
 15.Eric Kariuki
 
 ## Absent
+
 1. Andrew Espira
 2. Dr. Daniel Masiga
 3. Christian Mumo
