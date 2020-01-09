@@ -1,8 +1,8 @@
-## Minutes for the first MBBU meeting of the year 2020
+# Minutes for the first MBBU meeting of the year 2020
 
-# Date: Thursday 9, January 2020
+## Date: Thursday 9, January 2020
  
-# Time scheduled for meeting:  1000hrs-1200hrs
+## Time scheduled for meeting:  1000hrs-1200hrs
 
 ## Agenda Items
 
