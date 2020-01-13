@@ -16,7 +16,7 @@
 
 ## Present
 
-1. Dr.Caleb Kibet
+1. Dr.Caleb Kibet - chair
 2. Careen Naitore
 3. Geoffrey Kimani
 4. Cynthia Kamau
@@ -29,7 +29,7 @@
 11.Kennedy Mwangi
 12.Karen Wambui
 13.Daniel Ouso
-14.Bwanya Brian
+14.Bwanya Brian - secretary
 15.Eric Kariuki
 
 ## Absent
